@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @AsifMarwat,a student of BS Computer Science
-- 👀 I’m interested in Machine Learnin
-- 🌱 I’m currently enrolled in advance python classes offered by NAVTTC in islamia college peshawar,and also im enrolled in Machine Learning Specialization
-- 💞️ I’m looking to collaborate on ML,DL 
-- 📫 How to reach me ,you can connect with me On LinkediN by saerching My USername asifmarwat
-- 😄 Pronouns: HE
-- ⚡ Fun fact:
+# Hi there 👋 I'm Asif Marwat
 
-<!---
-AsifMarwat/AsifMarwat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 **Interests**:  
+I'm passionate about Artificial Intelligence, Machine Learning, Python, and Cloud Computing. My focus is on learning and applying these technologies to solve complex problems and build innovative solutions.
+
+🌱 **Currently Learning**:  
+- Advanced Python Course  at Islamia College University, Peshawar (NAVTTC Program)
+- Cloud Native Applied Generative AI Engineering at CECOS University, Peshawar (PIAIC Program)
+- 💻 **Certifications**:  
+- Meta Front End Developer Specialization  
+- Meta React Native Developer Specialization  
+  *(These were my first loves, but after discovering Machine Learning, Python, and AI, I found a new passion!)*
+- IBM Python for Data Science and AI
+- Python for Everybody by Coursera
+- Google Crash Course on Python
+- 
+💞️ **Looking to Collaborate On**:  
+Projects involving AI, Machine Learning, Python, or Cloud Native technologies.
+
+📫 **How to Reach Me**:  
+- Email: [muhammadasif.mwt@gmail.com]  
+- LinkedIn: [https://www.linkedin.com/in/asifmarwat/]  
+- Twitter: [https://x.com/asifmarwat.aup]  
+- Instagram: [https://www.instagram.com/asifmarwat.aup/]
+
+😄 **Pronouns**: He/Him
+
+⚡ **Fun Fact**:  
+When I'm not coding, I must be watching Lex Fridman or Yuval Noah Harari podcasts.
