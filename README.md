@@ -18,10 +18,9 @@ I'm passionate about Artificial Intelligence, Machine Learning, Python, and Clou
 Projects involving AI, Machine Learning, Python, or Cloud Native technologies.
 
 📫 **How to Reach Me**:  
-- Email: [muhammadasif.mwt@gmail.com]  
 - LinkedIn: [https://www.linkedin.com/in/asifmarwat/]  
-- Twitter: [https://x.com/asifmarwat.aup]  
-- Instagram: [https://www.instagram.com/asifmarwat.aup/]
+- Twitter: [https://x.com/asifmarwatx]  
+-
 
 😄 **Pronouns**: He/Him
 
