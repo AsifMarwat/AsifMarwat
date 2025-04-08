@@ -7,7 +7,7 @@ I’m passionate about Machine Learning and Data Science. I started with Front-E
 IT Specialist - Python (Pearson VUE) <br>
 Advanced Python Programming & Applications (National Vocational & Technical Training Commission, Pakistan)<br>
 IBM Python for Data Science and AI <br>
-Python for Everybody by Coursera<br>
+Python for Everybody Course On  Coursera<br>
 Meta Front-End Developer Specialization <br>
 Meta React Native Developer Specialization <br>
 
