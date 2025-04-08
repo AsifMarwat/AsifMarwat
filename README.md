@@ -3,11 +3,8 @@
 👀 **Interests**:  
 I’m passionate about Machine Learning and Data Science. I started with Front-End and Mobile Development using React.js and React Native, but once I discovered AI, I shifted my focus to Machine Learning. Over the past 2 years, I’ve been diving deep into these fields, constantly learning and applying my knowledge to solve complex problems with data.
 
-🌱 **Currently Learning**:  
-- Advanced Python Course  at Islamia College University, Peshawar (NAVTTC Program)
-- Cloud Native Applied Generative AI Engineering at CECOS University, Peshawar (PIAIC Program)
 - 💻 **Certifications**:  
-IT Specialist - Python (Pearson VUE)
+<b>IT Specialist - Python (Pearson VUE) <b>
 Advanced Python Programming & Applications (National Vocational & Technical Training Commission, Pakistan)
 IBM Python for Data Science and AI
 Python for Everybody by Coursera
