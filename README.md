@@ -4,12 +4,12 @@
 I’m passionate about Machine Learning and Data Science. I started with Front-End and Mobile Development using React.js and React Native, but once I discovered AI, I shifted my focus to Machine Learning. Over the past 2 years, I’ve been diving deep into these fields, constantly learning and applying my knowledge to solve complex problems with data.
 
 - 💻 **Certifications**:  
-<b>IT Specialist - Python (Pearson VUE) <b>
-Advanced Python Programming & Applications (National Vocational & Technical Training Commission, Pakistan)
-IBM Python for Data Science and AI
-Python for Everybody by Coursera
-Meta Front-End Developer Specialization
-Meta React Native Developer Specialization
+<b>IT Specialist - Python (Pearson VUE) <br>
+Advanced Python Programming & Applications (National Vocational & Technical Training Commission, Pakistan)<br>
+IBM Python for Data Science and AI <br>
+Python for Everybody by Coursera<br>
+Meta Front-End Developer Specialization <br>
+Meta React Native Developer Specialization <br>
 
 I’m passionate about creating impactful solutions by combining Machine Learning algorithms with Data Science techniques. I thrive on using Python to build powerful models that solve real-world problems.
 
