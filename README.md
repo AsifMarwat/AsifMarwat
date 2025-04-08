@@ -13,12 +13,12 @@ Meta React Native Developer Specialization <br>
 
 I’m passionate about creating impactful solutions by combining Machine Learning algorithms with Data Science techniques. I thrive on using Python to build powerful models that solve real-world problems.
 
-** What I’m Exploring Right Now: **
-Machine Learning Algorithms
-Data Science & Analytics
-AI Model Development
+**What I’m Exploring Right Now:**
+Machine Learning Algorithms <br>
+Data Science & Analytics  <br>
+AI Model Development  <br>
 
-** Collaborations & Opportunities: **
+**Collaborations & Opportunities:**
 I’m always eager to collaborate on innovative Machine Learning and Data Science projects that push the boundaries of what technology can do. If you’re working on exciting challenges and need a dedicated, passionate collaborator, let’s talk!
 
 
